@@ -1,0 +1,21 @@
+Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,MonthlyCharges,TotalCharges,Churn
+Male,0,Yes,No,5,Yes,Fiber optic,75.3,350,Yes
+Female,1,No,No,2,No,DSL,55.2,120,No
+Female,0,Yes,Yes,24,Yes,Fiber optic,88.6,2100,Yes
+Male,0,No,No,12,Yes,DSL,65,780,No
+Female,1,No,No,1,No,None,25.3,25.3,Yes
+Male,0,Yes,No,36,Yes,Fiber optic,92.4,3300,No
+Female,0,Yes,Yes,48,Yes,DSL,50.2,2400,No
+Male,1,No,No,3,Yes,Fiber optic,80.5,240,Yes
+Female,0,No,No,6,Yes,DSL,55.1,330,No
+Male,0,Yes,No,10,Yes,None,30.5,305,No
+Female,1,No,Yes,60,Yes,Fiber optic,95.5,5700,Yes
+Male,0,Yes,Yes,45,Yes,DSL,65.2,3000,No
+Female,0,No,No,20,Yes,Fiber optic,85.4,1700,Yes
+Male,1,No,No,15,No,None,22.3,334,No
+Female,0,Yes,No,8,Yes,DSL,58.5,468,No
+Male,0,Yes,Yes,72,Yes,Fiber optic,99.6,7100,Yes
+Female,1,No,No,4,No,None,19.8,79,Yes
+Male,0,Yes,No,18,Yes,DSL,62.2,1120,No
+Female,0,Yes,Yes,30,Yes,Fiber optic,90.1,2700,Yes
+Male,0,No,No,9,Yes,Fiber optic,78.3,705,Yes
